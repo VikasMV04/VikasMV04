@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Vikas MV</h1>
 <h3 align="center">A passionate Software Tester</h3>
